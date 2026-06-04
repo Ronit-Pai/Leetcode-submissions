@@ -15,4 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
