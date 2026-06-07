@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## String Matching
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
