@@ -35,6 +35,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +93,8 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
