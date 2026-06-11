@@ -31,6 +31,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0004-median-of-two-sorted-arrays](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0136-single-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -50,6 +51,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -99,4 +101,8 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
