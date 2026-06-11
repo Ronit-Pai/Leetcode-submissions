@@ -31,6 +31,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0004-median-of-two-sorted-arrays](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -70,6 +71,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
