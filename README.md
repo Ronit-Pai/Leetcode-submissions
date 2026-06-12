@@ -35,6 +35,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0074-search-a-2d-matrix](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -47,6 +48,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0001-two-sum](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
@@ -59,6 +61,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +84,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -108,4 +112,8 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
