@@ -33,6 +33,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | [0004-median-of-two-sorted-arrays](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -63,6 +64,7 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -119,4 +121,8 @@ Also Collections of GeeksForGeeks questions, Auto Synced using [GfG to Github](h
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Ronit-Pai/DSA-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
